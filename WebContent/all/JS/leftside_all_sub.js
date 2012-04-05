@@ -1,0 +1,22 @@
+document.write(
+		"<div id='leftside'>"
+		+"<h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome !!!</h1>"
+		+"<p><a class='nav' href='../../home.jsp'>Home</a><span "
+		+"class='hide'> | </span> <a class='nav' href='../../history/history_main.jsp'>History</a><span "
+		+"class='hide'> | </span> <a class='nav' href='../../personalities/personalities_main.jsp'>Personalities</a><span "
+		+"class='hide'> | </span> <a class='nav' href='../../education/education_main.jsp'>Education</a><span "
+		+"class='hide'> | </span> <a class='nav' href='../../entertainment/entertainment_main.jsp'>Entertainment</a><span "
+		+"class='hide'> | </span> <a class='nav' href='../../tourism/tourism_main.jsp'>Travel</a><span "
+		+"class='hide'> | </span> <a class='nav' href='../../gallery_main.jsp'>Gallery</a><span "
+		+"class='hide'> | </span> <a class='nav' href='../../downloads/downloads.jsp'>Downloads</a><span "
+		+"class='hide'> | </span> <a class='nav' href='../../forum_main.jsp'>Forum</a><span "
+		+"class='hide'> | </span> <a class='nav' href='../../view_news.jsp'>View News</a><span "
+		+"class='hide'> | </span> <a class='nav' href='../../surf_map.jsp'>Surf Map</a><span "
+		+"class='hide'> | </span> <a class='nav' href='../../search_ads.jsp'>Search Ads</a><span "
+		+"class='hide'> | </span> <a class='nav' href='.../../view_profile.jsp'>View Profile</a><span "
+		+"class='hide'> | </span> <a class='nav' href='../../update_profile.jsp'>Update Profile</a><span "
+		+"class='hide'> | </span> <a class='nav' href='../../post_ads.jsp'>Post Ads</a><span "
+		+"class='hide'> | </span></p>"
+		+"</div>"
+);
+

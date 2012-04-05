@@ -1,0 +1,10 @@
+Smart City is to provide a web based platform to Varanasi to showcase all it has in terms of unique
+businesses, places to see and things to do in the city.
+
+Purpose
+Smart City provides all the information of the city at one place. A user, whether he is a citizen or
+tourist or a businessman can get all the relevant information. In addition the users can do business
+remotely. The information has been structured distinctly according to end users. Conventionally a
+user has to visit different sites for information about tourism, business and city news, remote
+business required even greater efforts.
+
